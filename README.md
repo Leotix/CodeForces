@@ -1,2 +1,2 @@
 # CodeForces
-My solutions to problems from website codeforces.com
+My solutions to problems from website https://codeforces.com/
